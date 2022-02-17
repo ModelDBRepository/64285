@@ -53,7 +53,7 @@ par gAMPA=0,eAMPA=0
 
 init v1=-54.4, u1=91.6, n1=0.17, h1=0.13, v2=-60, u2=149, n2=0.0025, h2=1
 
-@ MAXSTOR=40000,TOTAL=2000,bell=off,XP=t,YP=v1
+@ MAXSTOR=40000,TOTAL=2000,bell=0,XP=t,YP=v1
 @ BOUND=10000,DT=0.1,METH=stiff,XHI=2000,YLO=-60,YHI=60
 
 done
