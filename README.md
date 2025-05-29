@@ -1,4 +1,4 @@
-# This model is associated with the paper:
+### This model is associated with the paper:
 
 Kuznetsov AS, Kopell NJ, Wilson CJ.
 Transient high-frequency firing in a coupled-oscillator model of the mesencephalic dopaminergic neuron.
@@ -6,7 +6,7 @@ Transient high-frequency firing in a coupled-oscillator model of the mesencephal
 
 and was supplied by AS Kuznetsov.
 
-# Use:
+### Use:
 
 Expand the archive and cd into the newly created directory and run:
 
